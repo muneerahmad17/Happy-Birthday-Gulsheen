@@ -13,6 +13,12 @@ const progress_div = document.getElementById("progress_div");
 
 const songs = [
     {
+        name: "hawayien",
+        image: "musicB55",
+        title: "HAWAYIEN",
+        artist: "All Time Fav ! I wish I could be there 🖤"
+    },
+    {
         name: "Birthday Song",
         image: "musicB44",
         title: "Happy Birthday Gulsheeeennn❤️❤️❤️",
@@ -36,12 +42,12 @@ const songs = [
         title: "Mere Yara",
         artist: "Woahh ! your current fav 😍"
     },
-    {
-        name: "hawayien",
-        image: "musicB55",
-        title: "HAWAYIEN",
-        artist: "All Time Fav ! I wish I could be there 🖤"
-    },
+//     {
+//         name: "hawayien",
+//         image: "musicB55",
+//         title: "HAWAYIEN",
+//         artist: "All Time Fav ! I wish I could be there 🖤"
+//     },
 
 ]
 
