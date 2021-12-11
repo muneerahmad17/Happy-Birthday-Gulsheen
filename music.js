@@ -22,7 +22,7 @@ const songs = [
         name: "Bijli Bijli",
         image: "musicB22",
         title: "Bijli Bijli",
-        artist: "Hope all your doubts of Maths gets clear 🤲🏻"
+        artist: "Hope all your doubts of Maths gets cleared 🤲🏻"
     },
     {
         name: "Khairiyat",
