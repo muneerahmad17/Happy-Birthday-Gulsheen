@@ -28,7 +28,7 @@ const songs = [
         name: "Khairiyat",
         image: "musicB33",
         title: "Khairiyat",
-        artist: "Please meet me soon ❤️"
+        artist: "Please meet me soon 🥺❤️"
     },
     {
         name: "Mere Yaara",
