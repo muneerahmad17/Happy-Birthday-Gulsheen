@@ -21,7 +21,7 @@ const songs = [
     {
         name: "Bijli Bijli",
         image: "musicB22",
-        title: "Bijli Bijli",
+        title: "Akhar",
         artist: "Hope all your doubts of Maths gets cleared 🤲🏻"
     },
     {
@@ -137,4 +137,5 @@ music.currentTime = move_progress;
 music.addEventListener('ended',nextSong);
 next.addEventListener('click', nextSong);
 prev.addEventListener('click', prevSong);
+
 
