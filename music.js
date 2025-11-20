@@ -27,19 +27,19 @@ const songs = [
     {
         name: "Khairiyat",
         image: "musicB33",
-        title: "Khairiyat",
+        title: "Chal Diye Tum Kahan",
         artist: "Please meet me soon 🥺❤️"
     },
     {
         name: "Mere Yaara",
         image: "musicB11",
-        title: "Mere Yara",
+        title: "Neher Wale",
         artist: "Woahh ! your current fav 😍"
     },
     {
         name: "hawayien",
         image: "musicB55",
-        title: "HAWAYIEN",
+        title: "Qayde Se",
         artist: "All Time Fav ! I wish I could be there 🖤"
     },
 
@@ -137,5 +137,6 @@ music.currentTime = move_progress;
 music.addEventListener('ended',nextSong);
 next.addEventListener('click', nextSong);
 prev.addEventListener('click', prevSong);
+
 
 
