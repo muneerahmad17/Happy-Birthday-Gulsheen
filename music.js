@@ -15,7 +15,7 @@ const songs = [
     {
         name: "Birthday Song",
         image: "musicB44",
-        title: "Happy Birthday Gulsheeeennn❤️❤️❤️",
+        title: "Happy Birthday My Baby❤️❤️❤️",
         artist: "Starting with this ❤️❤️❤️"
     },
     {
@@ -137,6 +137,7 @@ music.currentTime = move_progress;
 music.addEventListener('ended',nextSong);
 next.addEventListener('click', nextSong);
 prev.addEventListener('click', prevSong);
+
 
 
 
