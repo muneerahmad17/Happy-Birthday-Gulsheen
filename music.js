@@ -16,19 +16,19 @@ const songs = [
         name: "Birthday Song",
         image: "musicB44",
         title: "Happy Birthday My Baby❤️❤️❤️",
-        artist: "Starting with this ❤️❤️❤️"
+        artist: "May all your wishes come true and you get all the happiness in the world ❤️❤️❤️"
     },
     {
         name: "Bijli Bijli",
         image: "musicB22",
         title: "Akhar",
-        artist: "Hope all your doubts of Maths gets cleared 🤲🏻"
+        artist: "The song that marked the start of our relationship. We had our ups and downs in this journey but the time with you was always special "
     },
     {
         name: "Khairiyat",
         image: "musicB33",
         title: "Chal Diye Tum Kahan",
-        artist: "Please meet me soon 🥺❤️"
+        artist: "I really want to acknowledge all your efforts, all your love towards me that you showed all this time and I'm really grateful for that 🥺❤️"
     },
     {
         name: "Mere Yaara",
@@ -137,6 +137,7 @@ music.currentTime = move_progress;
 music.addEventListener('ended',nextSong);
 next.addEventListener('click', nextSong);
 prev.addEventListener('click', prevSong);
+
 
 
 
