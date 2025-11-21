@@ -40,7 +40,7 @@ const songs = [
         name: "hawayien",
         image: "musicB55",
         title: "Qayde Se",
-        artist: " Want to remind, that I really love, care and respect you and I'll always keep doing that! Scroll down at the bottom👇🏻"
+        artist: " Want to remind, that I really love, care and respect you and I'll always keep doing that! Scroll down at bottom👇🏻"
     },
 
 ]
@@ -137,6 +137,7 @@ music.currentTime = move_progress;
 music.addEventListener('ended',nextSong);
 next.addEventListener('click', nextSong);
 prev.addEventListener('click', prevSong);
+
 
 
 
