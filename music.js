@@ -28,7 +28,7 @@ const songs = [
         name: "Khairiyat",
         image: "musicB33",
         title: "Chal Diye Tum Kahan",
-        artist: "I really want to acknowledge all your efforts, all your love towards me that you showed all this time and I'm really grateful for that 🥺❤️"
+        artist: "I really want to acknowledge all your efforts, all your love you showed all this time and I'm really grateful 🥺❤️"
     },
     {
         name: "Mere Yaara",
@@ -137,6 +137,7 @@ music.currentTime = move_progress;
 music.addEventListener('ended',nextSong);
 next.addEventListener('click', nextSong);
 prev.addEventListener('click', prevSong);
+
 
 
 
