@@ -34,13 +34,13 @@ const songs = [
         name: "Mere Yaara",
         image: "musicB11",
         title: "Neher Wale",
-        artist: "And what about the songs? I hope I added the songs that you like 😍. Just never underestimate me babe. If you won't tell, that doesn't mean that I don't know stuff about you :) "
+        artist: "And how are the songs? See I managed to get those songs that you like. Do let me know your thoughts over this :) "
     },
     {
         name: "hawayien",
         image: "musicB55",
         title: "Qayde Se",
-        artist: "Just one last thing. I want to remind you that I really love you, I care for you and I respect you and I'll always keep doing all this 🖤"
+        artist: " I want to remind something, that I really love, care and respect you and I'll always keep doing all this 🖤"
     },
 
 ]
@@ -137,6 +137,7 @@ music.currentTime = move_progress;
 music.addEventListener('ended',nextSong);
 next.addEventListener('click', nextSong);
 prev.addEventListener('click', prevSong);
+
 
 
 
