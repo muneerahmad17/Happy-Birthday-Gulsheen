@@ -22,7 +22,7 @@ const songs = [
         name: "Bijli Bijli",
         image: "musicB22",
         title: "Akhar",
-        artist: "The song that marked the start of our relationship. We had our ups and downs in this journey but the time with you was always special "
+        artist: "The song that marked the start of our relationship. We had our ups and downs but the time was always special "
     },
     {
         name: "Khairiyat",
@@ -137,6 +137,7 @@ music.currentTime = move_progress;
 music.addEventListener('ended',nextSong);
 next.addEventListener('click', nextSong);
 prev.addEventListener('click', prevSong);
+
 
 
 
